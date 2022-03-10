@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;500;600&display=swap');
+
+
+.container-fluid{
+    margin: 0 15%;
+    font-family: 'Source Code Pro';
+    background-color: transparent;
+}
+
+
+
+.nav-link{
+    font-weight: 500;
+    color: #000957;
+
+} 
