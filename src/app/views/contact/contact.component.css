@@ -1,0 +1,18 @@
+
+
+section{
+    color: azure;
+    background-image: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.6)), url('../home/bg3.png');
+    background-size: cover;
+    font-family: 'Source Code Pro';
+}
+
+section .contact{
+    padding: 15% 20%;
+}
+
+.contact a{
+    text-decoration: none;
+    color: #F2F5C8;
+
+}
